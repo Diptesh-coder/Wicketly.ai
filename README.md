@@ -1,4 +1,5 @@
 # 🏏 Wicketly.AI - Cricket Analytics & Prediction Platform
+# 🏏 Wicketly.AI - Cricket Analytics & Prediction Platform
 
 > **Let's Change The Cricket Future**
 >
